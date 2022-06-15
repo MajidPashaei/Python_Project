@@ -27,6 +27,5 @@ entry_1.bind( '<Button-1>' , key )
 entry_1.place( x = 190 , y = 230 )
 btn = Button( root , text = ' جستجو ' , width = 10 , bg = "green" , fg = 'white' )
 btn.place( x = 100 , y = 226 )
-
-
-root.mainloop()
+  soxom bilan
+    
